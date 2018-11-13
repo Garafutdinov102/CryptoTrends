@@ -1,0 +1,68 @@
+,url,name
+0,https://coinmetrics.io/data/btc.csv,Bitcoin
+1,https://coinmetrics.io/data/bch.csv,Bitcoin Cash
+2,https://coinmetrics.io/data/ltc.csv,Litecoin
+3,https://coinmetrics.io/data/eth.csv,Ethereum
+4,https://coinmetrics.io/data/xem.csv,NEM
+5,https://coinmetrics.io/data/dcr.csv,Decred
+6,https://coinmetrics.io/data/zec.csv,ZCash
+7,https://coinmetrics.io/data/dash.csv,Dash
+8,https://coinmetrics.io/data/doge.csv,Dogecoin
+9,https://coinmetrics.io/data/etc.csv,Ethereum Classic
+10,https://coinmetrics.io/data/pivx.csv,PIVX
+11,https://coinmetrics.io/data/xmr.csv,Monero
+12,https://coinmetrics.io/data/vtc.csv,Vertcoin
+13,https://coinmetrics.io/data/xvg.csv,Verge
+14,https://coinmetrics.io/data/dgb.csv,Digibyte
+15,https://coinmetrics.io/data/btg.csv,Bitcoin Gold
+16,https://coinmetrics.io/data/xlm.csv,Stellar
+17,https://coinmetrics.io/data/ada.csv,Cardano
+18,https://coinmetrics.io/data/lsk.csv,Lisk
+19,https://coinmetrics.io/data/neo.csv,NEO
+20,https://coinmetrics.io/data/gas.csv,Gas
+21,https://coinmetrics.io/data/eos.csv,EOS
+22,https://coinmetrics.io/data/waves.csv,WAVES
+23,https://coinmetrics.io/data/usdt.csv,Tether
+24,https://coinmetrics.io/data/maid.csv,MaidSafeCoin
+25,https://coinmetrics.io/data/xrp.csv,Ripple
+26,https://coinmetrics.io/data/icx.csv,ICON
+27,https://coinmetrics.io/data/ppt.csv,Populous
+28,https://coinmetrics.io/data/omg.csv,OmiseGO
+29,https://coinmetrics.io/data/bnb.csv,Binance Coin
+30,https://coinmetrics.io/data/snt.csv,Status
+31,https://coinmetrics.io/data/wtc.csv,Waltonchain
+32,https://coinmetrics.io/data/rep.csv,Augur
+33,https://coinmetrics.io/data/zrx.csv,0x
+34,https://coinmetrics.io/data/veri.csv,Veritaseum
+35,https://coinmetrics.io/data/bat.csv,Basic Attention Token
+36,https://coinmetrics.io/data/knc.csv,Kyber Network
+37,https://coinmetrics.io/data/gnt.csv,Golem
+38,https://coinmetrics.io/data/fun.csv,FunFair
+39,https://coinmetrics.io/data/gno.csv,Gnosis
+40,https://coinmetrics.io/data/salt.csv,SALT
+41,https://coinmetrics.io/data/ethos.csv,Ethos
+42,https://coinmetrics.io/data/icn.csv,Iconomi
+43,https://coinmetrics.io/data/pay.csv,TenX
+44,https://coinmetrics.io/data/mtl.csv,Metal
+45,https://coinmetrics.io/data/cvc.csv,Civic
+46,https://coinmetrics.io/data/ven.csv,VeChain
+47,https://coinmetrics.io/data/rhoc.csv,RChain
+48,https://coinmetrics.io/data/ae.csv,Aeternity
+49,https://coinmetrics.io/data/ant.csv,Aragon
+50,https://coinmetrics.io/data/btm.csv,Bytom
+51,https://coinmetrics.io/data/lrc.csv,Loopring
+52,https://coinmetrics.io/data/zil.csv,Zilliqa
+53,https://coinmetrics.io/data/kcs.csv,KuCoin Shares
+54,https://coinmetrics.io/data/elf.csv,Aelf
+55,https://coinmetrics.io/data/aion.csv,Aion
+56,https://coinmetrics.io/data/loom.csv,Loom Network
+57,https://coinmetrics.io/data/powr.csv,Power Ledger
+58,https://coinmetrics.io/data/eng.csv,Enigma
+59,https://coinmetrics.io/data/srn.csv,SIRIN LABS token
+60,https://coinmetrics.io/data/nas.csv,Nebulas
+61,https://coinmetrics.io/data/poly.csv,Polymath
+62,https://coinmetrics.io/data/drgn.csv,Dragonchain
+63,https://coinmetrics.io/data/ctxc.csv,Cortex
+64,https://coinmetrics.io/data/qash.csv,QASH
+65,https://coinmetrics.io/data/cennz.csv,Centrality
+66,https://coinmetrics.io/data/mana.csv,Decentraland
